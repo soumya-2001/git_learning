@@ -4,3 +4,4 @@ git pull : Changes in Remote Repository to Local Repository
 git init : For Initializing Empty git Repository
 git add -A
 git commit -m "message"
+git status : To list all untracked files
